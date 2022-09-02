@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <div>
+          <title> Tesla Company </title>
+          <link rel="stylesheet" type="text/css" href="stylelogin.css">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">   
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>   
+      </head>
+    <body>
+    <section class="myform-area">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="form-area login-form">
+                        <div class="form-content">
+                            <h2>Login</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nonea non aperiam cum quas quod reprehenderit.</p>
+                            <ul>
+                                <li><a href="#" class="facebook"><i class="fa fa-facebook-f"></i><span>facebook</span></a></li>
+                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i><span>twitter</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="form-input">
+                            <h2>Login Form</h2>
+                            <form action="loginMultiRoleSession.php" method="post">
+                                <div class="form-group">
+                                    <input type="text"  id="username" name="username" required>
+                                    <label>User Name</label>
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" id="password" name="password" required>
+                                    <label>password</label>
+                                </div>
+                                <div class="myform-button">
+                                    <button class="myform-btn" name="but_submit" id="but_submit">Login</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+   $(document).ready(function(){
+    $("#but_submit").click(function(){
+        var username = $("#username").val().trim();
+        var password = $("#password").val().trim();
+
+        if( username != "" && password != "" ){
+            $.ajax({
+                url:'loginMultiRoleSession.php',
+                type:'post',
+                data:{username:username,password:password},
+                success:function(response){
+                    var msg = "";
+                    if($fechResult['role'] == 'user'){
+                        window.location = "home.php";
+                    }else{
+                        msg = "Invalid username and password!";
+                    }
+                    $("#message").html(msg);
+                }
+            });
+        }
+    });
+});
+</script>
+</body>
+</html>

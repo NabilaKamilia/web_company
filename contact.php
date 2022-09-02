@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title> La' Pasta </title>
+    <title> Top Company</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -123,22 +123,21 @@
             <div class="row text-center text-md-left">
 
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">La PAsta</h5>
-                    <p>Restoran ini sudah dibangun sejak tahun 1998 oleh Nabil Dixiee'l Seoritaaa. Restoran ini sangat terkenal
-                        dengan makanannya yaitu pasta karena pemiliknya memang dari Negara Italia.</p>
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Tesla Company</h5>
+                    <p>Tesla, Inc. adalah sebuah perusahaan otomotif dan penyimpanan energi asal Amerika Serikat yang didirikan 
+                    oleh Elon Musk, Martin Eberhard, Marc Tarpenning, JB Straubel dan Ian Wright, serta berbasis di Palo Alto, California.</p>
                 </div>
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Service</h5>
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Model</h5>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Dine In</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model S</a>
                     </p>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Take Home</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model X</a>
                     </p>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Delivery</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model Y</a>
                     </p>
-
                 </div>
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Page</h5>
@@ -155,16 +154,16 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Contact</h5>
                     <p>
-                        <i class="fas fa-home mr-3"></i>Malang, Jawa Timur
+                        <i class="fas fa-home mr-3"></i>Austin, Texas, United States
                     </p>
                     <p>
-                        <i class="fas fa-envelope mr-3"></i>la'pasta.id@gmail.com
+                        <i class="fas fa-envelope mr-3"></i>tesla.id@gmail.com
                     </p>
                     <p>
                         <i class="fas fa-phone mr-3"></i>095400480804
                     </p>
                     <p>
-                        <i class="fas fa-print mr-3"></i>La' Pasta
+                        <i class="fas fa-print mr-3"></i>Tesla Company
                     </p>
                 </div>
 
@@ -172,7 +171,7 @@
                     <div class="col-md-7 col-lg-8">
                         <p>CopyRight 2020 Light Workshop by:
                             <a href="index.html" style="text-decoration: none;">
-                                <strong class="text-warning">La Pasta</strong>
+                                <strong class="text-warning">Tesla</strong>
                             </a>
                         </p>
                     </div>

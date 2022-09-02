@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title> La' Pasta </title>
+    <title> Top Company </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -103,8 +103,8 @@
             <div class="detailMenu1">
                 <br>
 
-                <h4 class="text-center"> Tesla, Inc. adalah sebuah perusahaan otomotif dan penyimpanan energi asal Amerika Serikat yang didirikan oleh Elon Musk,
-                    Martin Eberhard, Marc Tarpenning, JB Straubel dan Ian Wright, serta berbasis di Palo Alto, California.
+                <h4 class="text-center"> Tesla, Inc. adalah sebuah perusahaan otomotif dan penyimpanan energi asal Amerika Serikat yang didirikan 
+                    oleh Elon Musk, Martin Eberhard, Marc Tarpenning, JB Straubel dan Ian Wright, serta berbasis di Palo Alto, California.
                     Seperti yang banyak diketahui, perusahaan ini memiliki spesialisasi di mobil listrik, komponen mesin,
                     dan juga memproduksi perangkat pengisi ulang baterai. Tesla Motors, Inc. memiliki kantor pusat yang berlokasi di San Carlos,
                     California, Amerika Serikat. Perusahaan ini sendiri awalnya didirikan dengan dimodali oleh pendiri PayPal sekaligus yang kita
@@ -118,34 +118,36 @@
                     <div class="detailMenu">
                         <h4>Model S</h4>
                         <br>
-                        <p> Cheese Bulgogi La'boo Pasta makanan ini disajikan dengan keju dan daging sapi pilihan kita dengan kulitas yang tinggi dengan cita rasa gurih dan legit
-                            tambahan daging sapi untuk menambah rasa gurih dari rasa lemak sapi yang telah kita tumis dengan kematangan yang sempurna dan ketika seseorang memakannya akan mersa sangat nikmat.
-                            Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang
-                            telah diracik secara turun temurun. Ditambah lagi dengan menggunakan daging sapi pilihan dari pertenakan milik kita sendiri jadi lebih terpercaya dan aman. </p>
-                        <br>
+                        <p> Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more 
+                            responsive performance so you can take corners quicker and with more confidence. 
+                            Model S is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted 
+                            battery pack for incredible occupant protection and low rollover risk. Every new Model S includes Tesla’s latest active 
+                            safety features, such as Automatic Emergency Braking, at no extra cost. </p>
+                                        <br>
                     </div>
                 </div>
                 <div class="menu">
                     <img class="menuimg" src="image/mobiltesla2.jpg" alt="menu">
                     <div class="detailMenu">
-                        <h4>Model Y </h4>
+                        <h4>Model X </h4>
                         <br>
-                        <p> Cheese Tomato Pasta makanan ini disajikan dengan keju dan tomat pilihan kita dengan kulitas yang tinggi dengan cita rasa gurih, legit, manis dan
-                            sedikit asam untuk menambah rasa segar ketika seseorang memakannya. Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena
-                            di dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang telah diracik secara turun temurun. Ditambah lagi dengan menggunakan tomat perkebunan milik kita
-                            jadi lebih higenis dan aman.</p>
+                        <p> Model X Plaid is the highest performing SUV ever built. All Model X powertrains, with updated battery architecture, 
+                            can deliver instant torque at any speed.
+                            Model X is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted battery 
+                            pack for incredible occupant protection and low rollover risk. Every Model X includes Tesla’s latest active safety features, 
+                            such as Automatic Emergency Braking, at no extra cost.</p>
                         <br>
                     </div>
                 </div>
                 <div class="menu">
                     <img class="menuimg" src="image/mobiltesla3.jpg" alt="menu">
                     <div class="detailMenu">
-                        <h4>Model X</h4>
+                        <h4>Model Y</h4>
                         <br>
-                        <p> mushrom pasta makanan ini disajikan dengan jamur pilihan kita dengan kulitas yang tinggi dengan cita rasa gurih dan legit.
-                            Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di dalam pasta ini, resto kita memberikan tambahan
-                            dengan bumbu rahasia kita yang telah diracik secara turun temurun. Ditambah lagi dengan menggunakan minyak mushrom yang mahal.</p>
-                        <br>
+                        <p> Model Y is a fully electric, mid-size SUV with unparalleled protection and versatile cargo space. The interior of Model Y 
+                            is simple and clean, with a 15-inch touch screen, immersive sound system and an expansive all-glass roof that creates extra 
+                            headroom and provides a seamless view of the sky.</p>
+                                        <br>
                     </div>
                 </div>
             </div>
@@ -157,22 +159,21 @@
             <div class="row text-center text-md-left">
 
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">La PAsta</h5>
-                    <p>Restoran ini sudah dibangun sejak tahun 1998 oleh Nabil Dixiee'l Seoritaaa. Restoran ini sangat terkenal
-                        dengan makanannya yaitu pasta karena pemiliknya memang dari Negara Italia.</p>
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Tesla Company</h5>
+                    <p>Tesla, Inc. adalah sebuah perusahaan otomotif dan penyimpanan energi asal Amerika Serikat yang didirikan 
+                    oleh Elon Musk, Martin Eberhard, Marc Tarpenning, JB Straubel dan Ian Wright, serta berbasis di Palo Alto, California.</p>
                 </div>
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
-                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Service</h5>
+                    <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Model</h5>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Dine In</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model S</a>
                     </p>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Take Home</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model X</a>
                     </p>
                     <p>
-                        <a href="" class="text-white" style="text-decoration: none;">Delivery</a>
+                        <a href="" class="text-white" style="text-decoration: none;">Model Y</a>
                     </p>
-
                 </div>
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Page</h5>
@@ -189,16 +190,16 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                     <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Contact</h5>
                     <p>
-                        <i class="fas fa-home mr-3"></i>Malang, Jawa Timur
+                        <i class="fas fa-home mr-3"></i>Austin, Texas, United States
                     </p>
                     <p>
-                        <i class="fas fa-envelope mr-3"></i>la'pasta.id@gmail.com
+                        <i class="fas fa-envelope mr-3"></i>tesla.id@gmail.com
                     </p>
                     <p>
                         <i class="fas fa-phone mr-3"></i>095400480804
                     </p>
                     <p>
-                        <i class="fas fa-print mr-3"></i>La' Pasta
+                        <i class="fas fa-print mr-3"></i>Tesla Company
                     </p>
                 </div>
 
@@ -206,7 +207,7 @@
                     <div class="col-md-7 col-lg-8">
                         <p>CopyRight 2020 Light Workshop by:
                             <a href="index.html" style="text-decoration: none;">
-                                <strong class="text-warning">La Pasta</strong>
+                                <strong class="text-warning">Tesla Company</strong>
                             </a>
                         </p>
                     </div>

@@ -83,27 +83,19 @@
         ];        
 
         $deskripsi = [
-          "Cheese Bulgogi La'boo Pasta makanan ini disajikan dengan keju dan daging sapi pilihan kita dengan
-          kulitas yang tinggi dengan cita rasa gurih dan legit
-          tambahan daging sapi untuk menambah rasa gurih dari rasa lemak sapi yang telah kita tumis dengan
-          kematangan yang sempurna dan ketika seseorang memakannya akan mersa sangat nikmat.
-          Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di
-          dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang
-          telah diracik secara turun temurun. Ditambah lagi dengan menggunakan daging sapi pilihan dari pertenakan
-          milik kita sendiri jadi lebih terpercaya dan aman. ",
-          "Cheese Tomato Pasta makanan ini disajikan dengan keju dan tomat pilihan kita dengan kulitas yang tinggi
-          dengan cita rasa gurih, legit, manis dan
-          sedikit asam untuk menambah rasa segar ketika seseorang memakannya. Pasta ini memiliki komposisi yang
-          tidak membuat orang yang menyantapnya merasa kurang nikmat karena
-          di dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang telah diracik secara
-          turun temurun. Ditambah lagi dengan menggunakan tomat perkebunan milik kita
-          jadi lebih higenis dan aman.",
-          "mushrom pasta makanan ini disajikan dengan jamur pilihan kita dengan kulitas yang tinggi dengan cita
-          rasa gurih dan legit.
-          Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di
-          dalam pasta ini, resto kita memberikan tambahan
-          dengan bumbu rahasia kita yang telah diracik secara turun temurun. Ditambah lagi dengan menggunakan minyak
-          mushrom yang mahal."
+          "Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more 
+          responsive performance so you can take corners quicker and with more confidence. 
+          Model S is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted 
+          battery pack for incredible occupant protection and low rollover risk. Every new Model S includes Tesla’s latest active 
+          safety features, such as Automatic Emergency Braking, at no extra cost. ",
+          "Model X Plaid is the highest performing SUV ever built. All Model X powertrains, with updated battery architecture, 
+          can deliver instant torque at any speed.
+          Model X is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted battery 
+          pack for incredible occupant protection and low rollover risk. Every Model X includes Tesla’s latest active safety features, 
+          such as Automatic Emergency Braking, at no extra cost.",
+          "Model Y is a fully electric, mid-size SUV with unparalleled protection and versatile cargo space. The interior of Model Y 
+          is simple and clean, with a 15-inch touch screen, immersive sound system and an expansive all-glass roof that creates extra 
+          headroom and provides a seamless view of the sky."
         ];
 
 
@@ -113,14 +105,11 @@
           <div class="detailMenu">
             <h4>Model S</h4>
             <br>
-            <p>Cheese Bulgogi La'boo Pasta makanan ini disajikan dengan keju dan daging sapi pilihan kita dengan
-          kulitas yang tinggi dengan cita rasa gurih dan legit
-          tambahan daging sapi untuk menambah rasa gurih dari rasa lemak sapi yang telah kita tumis dengan
-          kematangan yang sempurna dan ketika seseorang memakannya akan mersa sangat nikmat.
-          Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di
-          dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang
-          telah diracik secara turun temurun. Ditambah lagi dengan menggunakan daging sapi pilihan dari pertenakan
-          milik kita sendiri jadi lebih terpercaya dan aman.</p>
+            <p>Model S is built for speed, endurance and range. Improved aerodynamics and a wider chassis offer more 
+              responsive performance so you can take corners quicker and with more confidence. 
+              Model S is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted 
+              battery pack for incredible occupant protection and low rollover risk. Every new Model S includes Tesla’s latest active 
+              safety features, such as Automatic Emergency Braking, at no extra cost.</p>
             <br>            
           </div>
         </div>
@@ -129,14 +118,11 @@
           <div class="detailMenu">
             <h4>Model X</h4>
             <br>
-            <p>Cheese Bulgogi La'boo Pasta makanan ini disajikan dengan keju dan daging sapi pilihan kita dengan
-          kulitas yang tinggi dengan cita rasa gurih dan legit
-          tambahan daging sapi untuk menambah rasa gurih dari rasa lemak sapi yang telah kita tumis dengan
-          kematangan yang sempurna dan ketika seseorang memakannya akan mersa sangat nikmat.
-          Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di
-          dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang
-          telah diracik secara turun temurun. Ditambah lagi dengan menggunakan daging sapi pilihan dari pertenakan
-          milik kita sendiri jadi lebih terpercaya dan aman.</p>
+            <p>Model X Plaid is the highest performing SUV ever built. All Model X powertrains, with updated battery architecture, 
+              can deliver instant torque at any speed.
+              Model X is built from the ground up as an electric vehicle, with a high-strength architecture and floor-mounted battery 
+              pack for incredible occupant protection and low rollover risk. Every Model X includes Tesla’s latest active safety features, 
+              such as Automatic Emergency Braking, at no extra cost.</p>
             <br>            
           </div>
         </div>
@@ -145,14 +131,9 @@
           <div class="detailMenu">
             <h4>Model Y</h4>
             <br>
-            <p>Cheese Bulgogi La'boo Pasta makanan ini disajikan dengan keju dan daging sapi pilihan kita dengan
-          kulitas yang tinggi dengan cita rasa gurih dan legit
-          tambahan daging sapi untuk menambah rasa gurih dari rasa lemak sapi yang telah kita tumis dengan
-          kematangan yang sempurna dan ketika seseorang memakannya akan mersa sangat nikmat.
-          Pasta ini memiliki komposisi yang tidak membuat orang yang menyantapnya merasa kurang nikmat karena di
-          dalam pasta ini, resto kita memberikan tambahan dengan bumbu rahasia kita yang
-          telah diracik secara turun temurun. Ditambah lagi dengan menggunakan daging sapi pilihan dari pertenakan
-          milik kita sendiri jadi lebih terpercaya dan aman.</p>
+            <p>Model Y is a fully electric, mid-size SUV with unparalleled protection and versatile cargo space. The interior of Model Y 
+              is simple and clean, with a 15-inch touch screen, immersive sound system and an expansive all-glass roof that creates extra 
+              headroom and provides a seamless view of the sky.</p>
             <br>            
           </div>
         </div>
@@ -180,7 +161,6 @@
           <p>
             <a href="" class="text-white" style="text-decoration: none;">Model Y</a>
           </p>
-
         </div>
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
           <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Page</h5>
@@ -197,8 +177,7 @@
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
           <h5 class="text-uppercase mb-4 font-weight-bold text-warning">Contact</h5>
           <p>
-            <i class="fas fa-home mr-3"></i>Malang, Jawa Timur
-          </p>
+            <i class="fas fa-home mr-3"></i>Austin, Texas, United States
           <p>
             <i class="fas fa-envelope mr-3"></i>tesla.id@gmail.com
           </p>
